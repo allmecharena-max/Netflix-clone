@@ -1,9 +1,6 @@
 # 🎬 Netflix UI Clone
 
-A modern, pixel-perfect clone of the Netflix user interface built entirely with semantic HTML5 and responsive CSS3. Developed as an educational project to master modern web layout techniques and UI design patterns.
-
-<!-- Replace this with a link to your live demo or an image tag if you add a screenshot later -->
-> **Live Demo:** [View the live project here](https://yourusername.github.io/your-repository-name)
+A modern, pixel-perfect clone of the Netflix user interface built entirely with semantic HTML5 and responsive CSS3. Developed as an educational project to master modern web layout techniques and UI design patterns
 
 ---
 
@@ -28,25 +25,13 @@ This project is built purely with native web technologies to demonstrate core fr
 
 ---
 
-## 📸 Screenshots
+## 📸 Consists of :-
 
-### Desktop View
-*(Add a screenshot of the desktop layout here)*
+### Desktop View*
 
 ### Mobile Responsive View
-*(Add a screenshot of the mobile layout here)*
-
----
-
-## 🚀 Getting Started
-
-To explore or modify the project locally, follow these simple steps:
 
 ### Prerequisites
 You only need a modern web browser (like Chrome, Firefox, or Safari) and a text editor.
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/yourusername/your-repository-name.git)
